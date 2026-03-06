@@ -1,66 +1,67 @@
-{
+[
+  {
     "Brand_Name": "OmniSweep X7 Pro",
     "Price": "$899",
     "Customer_Rating": 4.8,
     "Core_Features": "Dual-Laser LiDAR, Auto-Empty & Wash Station, 8000Pa Suction",
     "Description": "The ultimate premium robot vacuum. It delivers flawless cleaning performance with advanced mapping technology, AI obstacle avoidance, and a self-emptying base that holds up to 60 days of dirt. Highly recommended for large homes and demanding users."
-  }
+  },
   {
     "Brand_Name": "AeroVac Ultra",
     "Price": "$749",
     "Customer_Rating": 4.6,
     "Core_Features": "AI Object Recognition, Self-Emptying, 6500Pa Suction",
     "Description": "A strong high-end contender that identifies cables and shoes to avoid getting stuck. The auto-empty dock is highly convenient, though the vacuum can be slightly noisy on its maximum suction setting."
-  }
+  },
   {
     "Brand_Name": "TitanSweep BigBin",
     "Price": "$549",
     "Customer_Rating": 4.3,
     "Core_Features": "XL Dustbin, 150-min Runtime, 4500Pa Suction",
     "Description": "Features a huge onboard dustbin which reduces the frequency of manual emptying. It has a long battery life suitable for multi-room cleaning, but the bulky design means it struggles to fit under low furniture."
-  }
+  },
   {
     "Brand_Name": "NovaClean V9",
     "Price": "$499",
     "Customer_Rating": 4.4,
     "Core_Features": "Smart Navigation, Vacuum & Mop Combo, 4000Pa Suction",
     "Description": "A reliable and affordable robot vacuum that vacuums and mops. It navigates well around furniture and keeps your daily floors clean. Good for standard apartments."
-  }
+  },
   {
     "Brand_Name": "FurFighter Max",
     "Price": "$429",
     "Customer_Rating": 4.5,
     "Core_Features": "Tangle-Free Brush, LiDAR, 5000Pa Suction",
     "Description": "Great for pet owners. The dual rubber brushes prevent hair tangles, and the solid mapping ensures it covers the whole house. The mopping function, however, is very basic."
-  }
+  },
   {
     "Brand_Name": "CornerTech Edge",
     "Price": "$399",
     "Customer_Rating": 4.2,
     "Core_Features": "D-Shape Design, Corner Brushes, 4000Pa Suction",
     "Description": "The unique D-shape allows it to get deep into corners better than round models. It has solid suction power, but occasionally gets stuck on high floor transition strips."
-  }
+  },
   {
     "Brand_Name": "AquaBot Glide",
     "Price": "$349",
     "Customer_Rating": 4.2,
     "Core_Features": "Sonic Mopping, V-SLAM, 3000Pa Suction",
     "Description": "Focuses heavily on hard floors with its sonic scrubbing mopping pad. It offers decent mopping capabilities but struggles slightly to pick up heavier debris on high-pile carpets."
-  }
+  },
   {
     "Brand_Name": "BotMates Spark",
     "Price": "$299",
     "Customer_Rating": 4.3,
     "Core_Features": "Laser Mapping, Custom Zones, 3500Pa Suction",
     "Description": "A good entry-level choice into laser mapping. It allows you to set no-go zones via the app. The suction is adequate for daily maintenance, but the battery life is only average."
-  }
+  },
   {
     "Brand_Name": "MiniVac Nano",
     "Price": "$249",
     "Customer_Rating": 4.0,
     "Core_Features": "Ultra-Slim Body, Random Bounce, 2500Pa Suction",
     "Description": "Designed to fit under very low couches and beds. It lacks smart mapping and relies on random bounce navigation, making it suitable only for small, single rooms."
-  }
+  },
   {
     "Brand_Name": "DustMaster 360",
     "Price": "$199",
@@ -68,4 +69,4 @@
     "Core_Features": "Gyroscope Navigation, High Suction, Slim Design",
     "Description": "A basic but functional vacuum for everyday dust and light debris. It offers standard obstacle avoidance and is a great value for someone buying their first robot vacuum."
   }
-
+]
