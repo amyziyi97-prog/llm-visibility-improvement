@@ -1,0 +1,88 @@
+To ensure your control of variables is flawless, I've carefully crafted these 16 short texts. 
+They maintain a high degree of consistency in **word count (all around 35-45 words), core semantics, and product positioning**, differing only in the **content features** you'll be testing.
+
+---
+
+### The first - (Search Good) - `NovaClean V9`
+
+1. Baseline (Control)
+
+"The NovaClean V9 is a reliable robot vacuum that handles both vacuuming and mopping. It navigates well around everyday furniture and keeps your hard floors and carpets clean. It is a solid choice for regular household maintenance." 
+
+2. Traditional SEO (Keyword Stuffing)
+
+"The NovaClean V9 is the best robot vacuum cleaner for home. Buy this smart robot vacuum mop combo online. This automatic sweeping robot vacuum navigates around furniture and cleans hard floors perfectly. Best affordable robot vacuum deals." 
+
+3. Semantic GEO (Statistics Addition)
+
+"The NovaClean V9 delivers 4000Pa of suction power for both vacuuming and mopping. It removes 99.4% of dust around everyday furniture and effectively cleans hard floors. It is a solid choice, capable of cleaning up to 1500 sq.ft. per charge." 
+
+4. Semantic GEO (Citation Injection)
+
+"The NovaClean V9 handles both vacuuming and mopping. Awarded 'Best Value Buy' by TechHome Magazine, it navigates well around everyday furniture. According to Consumer Reports, it is a highly solid choice for regular household maintenance, keeping floors consistently clean." 
+
+5. Stylistic GEO (Fluency Optimization)
+
+"Effortlessly managing both vacuuming and mopping tasks, the NovaClean V9 is a highly dependable robotic cleaner. It seamlessly navigates around household furniture to maintain pristine hard floors and carpets, serving as an effective tool for routine home upkeep." 
+
+6. Stylistic GEO (Easy-to-Understand)
+
+"The NovaClean V9 is a helpful robot that sweeps and wipes your floors for you. It easily drives around your tables and chairs without getting stuck. It is a great, simple tool to keep your home clean every single day." 
+
+7. Authoritative Tone 
+
+"Engineered for uncompromising reliability, the NovaClean V9 masters both vacuuming and mopping. It executes precise navigation protocols around furniture to ensure flawless hard floors and carpets. It stands as the definitive choice requiring rigorous, daily household maintenance." 
+
+8. Comparative Synthesis
+
+"Unlike average vacuums that only sweep, the NovaClean V9 handles both vacuuming and mopping simultaneously. It navigates around furniture significantly more efficiently than standard models in its price tier. It is a superior choice for homes compared to traditional upright vacuums." 
+
+---
+
+### The second - (Experience Good) - `NovaBean Heritage`
+
+1. Baseline (Control)
+
+"The NovaBean Heritage is a reliable all-purpose coffee that suits various brewing methods. It offers a gentle balance of sweetness and mild fruitiness with a clean finish. It is a solid choice for those who enjoy a straightforward, dependable morning cup." 
+
+2. Traditional SEO (Keyword Stuffing)
+
+"Buy the best whole bean coffee online. NovaBean Heritage is a top all-purpose coffee bean for espresso and drip makers. Enjoy the best tasting gourmet morning coffee blend. Fresh roasted coffee beans for your daily straightforward, dependable morning cup." 
+(Note: Removed "cheap" and "free shipping". Kept pure SEO density.)
+
+3. Semantic GEO (Statistics Addition)
+
+"The NovaBean Heritage is grown at exactly 1,400 meters above sea level, ensuring optimal bean density. It scores an 83.5 on the SCA cup scale, offering balanced sweetness. Roasted in 15-pound micro-batches, it provides a highly consistent morning cup." 
+
+4. Semantic GEO (Citation Injection)
+
+"The NovaBean Heritage suits various brewing methods. Praised by Roast Magazine for its 'gentle balance of sweetness,' it offers a delightfully clean finish. World Barista Champion James Hoffmann noted it as a 'solid, dependable choice' for a straightforward morning cup." 
+
+5. Stylistic GEO (Fluency Optimization)
+
+"Exceptionally versatile across multiple brewing methods, the NovaBean Heritage proves to be a remarkably dependable coffee. It presents a harmonious blend of subtle sweetness and delicate fruit notes, culminating in a crisp finish, serving effectively as a satisfying morning brew."
+(Note: Removed "outstanding choice" to keep it strictly fluent and objective.)
+
+6. Stylistic GEO (Easy-to-Understand)
+
+"NovaBean Heritage is a great everyday coffee that tastes good however you make it. It has a nice, sweet flavor with a little bit of fruitiness, and leaves your mouth feeling perfectly clean. It is simply an easy-to-drink morning coffee." 
+(Note: Replaced the negative constraint "doesn't leave a bitter aftertaste" with "leaves your mouth feeling perfectly clean" to map flawlessly to the baseline's "clean finish".)
+
+7. Authoritative Tone
+
+"Masterfully crafted for versatility, the NovaBean Heritage commands excellence across all brewing methods. It dictates a precise balance of sweetness and fruit notes, culminating in an immaculately clean finish. It stands as the definitive choice for a dependable morning cup." 
+
+8. Comparative Synthesis
+
+"Unlike average coffees that lack versatility, the NovaBean Heritage suits various brewing methods simultaneously. It maintains a significantly gentler balance of sweetness than industry alternatives. It offers a notably cleaner finish compared to typical supermarket blends, making it a superior choice."
+---
+
+### 💡 给您的实验执行建议：
+
+现在您手头已经有了这 16 段“实验炮弹”。在接下来的 Python 自动化脚本编写中，您的核心逻辑应该非常简单：
+
+1. **写一个循环 (For loop) 跑 100 次。**
+2. 每次循环中，**打乱 (Shuffle)** JSON 列表中 10 个产品的顺序。
+3. 针对 `Condition 1` 到 `Condition 8`，依次把目标产品 (`NovaClean V9` 或 `NovaBean Heritage`) 的 `"Description"` 字段替换成上面的对应文本。
+4. 把组装好的 JSON 和 Prompt 发给 GPT-4 / Gemini 的 API。
+5. 提取 API 返回的排名结果（计算 RRS）和字数占比（计算 Prominence）。
