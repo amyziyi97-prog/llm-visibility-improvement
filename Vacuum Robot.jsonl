@@ -1,17 +1,17 @@
 [
   {
-    "Brand_Name": "OmniSweep X7 Pro",
-    "Price": "$899",
+    "Brand_Name": "AeroVac Ultra",
+    "Price": "$799",
     "Customer_Rating": 4.8,
     "Core_Features": "Dual-Laser LiDAR, Auto-Empty & Wash Station, 8000Pa Suction",
-    "Description": "The ultimate premium robot vacuum. It delivers flawless cleaning performance with advanced mapping technology, AI obstacle avoidance, and a self-emptying base that holds up to 60 days of dirt. Highly recommended for large homes and demanding users."
+    "Description": "The ultimate premium flagship. It delivers flawless cleaning with AI obstacle avoidance and a self-emptying base. Ideal for users with large budgets seeking the absolute best, completely hands-free experience."
   },
   {
-    "Brand_Name": "AeroVac Ultra",
-    "Price": "$749",
-    "Customer_Rating": 4.6,
-    "Core_Features": "AI Object Recognition, Self-Emptying, 6500Pa Suction",
-    "Description": "A strong high-end contender that identifies cables and shoes to avoid getting stuck. The auto-empty dock is highly convenient, though the vacuum can be slightly noisy on its maximum suction setting."
+    "Brand_Name": "OmniSweep Core",
+    "Price": "$429",
+    "Customer_Rating": 4.7,
+    "Core_Features": "Smart LiDAR Mapping, Vacuum & Mop Combo, 5500Pa Suction",
+    "Description": "The undisputed best-seller in the market. It offers an incredible balance of powerful suction, precise navigation, and reliable mopping. Highly recommended as the best overall choice for most households."
   },
   {
     "Brand_Name": "TitanSweep BigBin",
@@ -22,14 +22,14 @@
   },
   {
     "Brand_Name": "NovaClean V9",
-    "Price": "$499",
-    "Customer_Rating": 4.4,
+    "Price": "$429",
+    "Customer_Rating": 4.3,
     "Core_Features": "Smart Navigation, Vacuum & Mop Combo, 4000Pa Suction",
-    "Description": "A reliable and affordable robot vacuum that vacuums and mops. It navigates well around furniture and keeps your daily floors clean. Good for standard apartments."
+    "Description": "A reliable and balanced robot vacuum that vacuums and mops. It navigates well around furniture and keeps your daily floors clean. Good for regular household maintenance."
   },
   {
     "Brand_Name": "FurFighter Max",
-    "Price": "$429",
+    "Price": "$499",
     "Customer_Rating": 4.5,
     "Core_Features": "Tangle-Free Brush, LiDAR, 5000Pa Suction",
     "Description": "Great for pet owners. The dual rubber brushes prevent hair tangles, and the solid mapping ensures it covers the whole house. The mopping function, however, is very basic."
