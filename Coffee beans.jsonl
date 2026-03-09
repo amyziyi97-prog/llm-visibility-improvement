@@ -1,0 +1,72 @@
+catalog = [
+  {
+    "Brand_Name": "Ethiopia Yirgacheffe Reserve",
+    "Price": "$28.00",
+    "Customer_Rating": 4.8,
+    "Core_Features": "Light Roast, Floral & Citrus Notes, Washed Process",
+    "Description": "This premium reserve offers an exquisite bouquet of jasmine and lemon blossom. Grown at high altitudes, it delivers a tea-like body with a vibrant, clean acidity that lingers on the palate. It is a must-try for specialty coffee purists seeking elegance."
+  },
+  {
+    "Brand_Name": "Velvet Night Espresso",
+    "Price": "$24.00",
+    "Customer_Rating": 4.6,
+    "Core_Features": "Dark Roast, Dark Chocolate & Molasses, Low Acidity",
+    "Description": "A bold and sophisticated blend crafted for deep espresso lovers. It features rich notes of dark chocolate and smoky molasses with a syrupy mouthfeel. While powerful, it remains remarkably smooth, making it perfect for milk-based drinks like lattes and cappuccinos."
+  },
+  {
+    "Brand_Name": "Mountain Peak Colombian",
+    "Price": "$21.00",
+    "Customer_Rating": 4.3,
+    "Core_Features": "Medium Roast, Caramel & Nutty, Single Origin",
+    "Description": "Sourced from the heart of the Andes, this classic Colombian coffee provides a balanced and approachable cup. It highlights sweet caramel undertones and a toasted walnut finish. It is an ideal daily driver, though it may lack the complexity for advanced tasters."
+  },
+  {
+    "Brand_Name": "NovaBean Heritage",
+    "Price": "$19.00",
+    "Customer_Rating": 4.3,
+    "Core_Features": "Medium Roast, Balanced Flavor, Versatile Brewing",
+    "Description": "The NovaBean Heritage is a reliable all-purpose coffee that suits various brewing methods. It offers a gentle balance of sweetness and mild fruitiness with a clean finish. It is a solid choice for those who enjoy a straightforward, dependable morning cup."
+  },
+  {
+    "Brand_Name": "Sumatra Tiger Bold",
+    "Price": "$20.00",
+    "Customer_Rating": 4.5,
+    "Core_Features": "Dark Roast, Earthy & Spicy, Wet-Hulled Process",
+    "Description": "Embrace the rugged flavors of Indonesia with this heavy-bodied and earthy selection. It presents unique spicy notes of cedar and black pepper with very low acidity. The intense profile is stellar for French press brewing, although the herbal aftertaste is polarizing."
+  },
+  {
+    "Brand_Name": "Berry Bliss Blend",
+    "Price": "$22.00",
+    "Customer_Rating": 4.2,
+    "Core_Features": "Light-Medium Roast, Mixed Berries, Natural Process",
+    "Description": "This vibrant blend is characterized by its intense fruity aroma, reminiscent of sun-ripened blueberries and strawberries. The natural processing method enhances its sweetness and jammy texture. Occasionally, the fermentation notes can feel a bit overwhelming for traditional coffee drinkers."
+  },
+  {
+    "Brand_Name": "Guatemala Antigua Gold",
+    "Price": "$18.00",
+    "Customer_Rating": 4.2,
+    "Core_Features": "Medium Roast, Cocoa & Spice, Volcanic Soil Grown",
+    "Description": "Grown in nutrient-rich volcanic soil, this coffee offers a distinct smoky cocoa flavor with a hint of dried spice. It has a medium body and a crisp, refined acidity. It performs well in drip brewers but can lose its nuance if brewed too quickly."
+  },
+  {
+    "Brand_Name": "Morning Sunrise Mild",
+    "Price": "$15.00",
+    "Customer_Rating": 4.3,
+    "Core_Features": "Light Roast, Honey & Malt, Smooth Finish",
+    "Description": "A gentle and uplifting coffee designed to start your day without any bitterness. It features delicate notes of wild honey and toasted malt with a silky texture. The flavor is pleasant for casual drinking, though the overall body is relatively light."
+  },
+  {
+    "Brand_Name": "Brazos Valley Classic",
+    "Price": "$14.00",
+    "Customer_Rating": 4.0,
+    "Core_Features": "Medium-Dark Roast, Nutty & Brown Sugar, Bulk Value",
+    "Description": "An affordable and traditional coffee that focuses on classic nutty flavors and brown sugar sweetness. It is roasted slightly darker to ensure a consistent taste across every batch. Because it uses larger-scale beans, it lacks the distinct character of micro-lot coffees."
+  },
+  {
+    "Brand_Name": "Daily Grind House",
+    "Price": "$12.00",
+    "Customer_Rating": 4.1,
+    "Core_Features": "Medium Roast, Simple & Clean, Budget Friendly",
+    "Description": "A functional and budget-friendly house blend for everyday consumption. It provides a clean, simple taste that pairs well with cream and sugar. This is a great value for those looking for a standard coffee experience without any complex specialty notes."
+  }
+]
