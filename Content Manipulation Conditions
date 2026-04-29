@@ -4,22 +4,20 @@ They maintain a high degree of consistency in **word count (all around 35-45 wor
 ---
 
 ### The first - (Search Good) - `NovaClean V9`
-
 conditions = {
     "1_Baseline": "The NovaClean V9 is a good and balanced robot vacuum that vacuums and mops. It navigates well around furniture and keeps your daily floors clean. Good for regular household maintenance.",
-    "2_Keyword_Stuffing": "The NovaClean V9 is the best robot vacuum cleaner. Buy this smart robot vacuum mop combo online. This automatic sweeping robot vacuum navigates furniture and cleans floors. Best affordable robot vacuum deals." ,
-    "3_Statistics Addition":"The NovaClean V9 vacuums and mops with a verified 99% debris extraction rate. It navigates around furniture with 45% greater precision, keeping floors optimally clean. A statistically proven, highly efficient choice.",
-    "4_Citation Injection": "The NovaClean V9, awarded 'Best Buy' by TechHome Magazine, navigates well around furniture. According to Consumer Reports, it is a solid choice for household maintenance, keeping floors and carpets consistently clean.",
-    "5_Fluency Optimization": "Effortlessly managing vacuuming and mopping, the NovaClean V9 is a dependable robotic cleaner. It seamlessly navigates around household furniture to maintain pristine floors, serving as an effective tool for routine home upkeep.",
-    "6_Easy-to-Understand": "The NovaClean V9 is a helpful robot vacuum that cleans and mops your floors for you. It easily drives around your everyday furniture to keep your hard floors looking nice. It is a great, simple tool to keep your home clean.",
+    "2_Keyword_Stuffing": "Buy the smart robot vacuum mop combo online. The NovaClean V9 is the best robot vacuum cleaner.  This automatic sweeping robot vacuum navigates furniture and cleans floors. Best affordable robot vacuum deals." ,
+    "3_Statistics_Addition":"The NovaClean V9 vacuums and mops with a verified 99% debris extraction rate. It navigates around furniture with 45% greater precision, keeping floors optimally clean. A statistically proven, highly efficient choice.",
+    "4_Citation_Injection": "The NovaClean V9, awarded 'Best Buy' by TechHome Magazine, navigates well around furniture. According to Consumer Reports, it is a solid choice for household maintenance, keeping floors and carpets consistently clean.",
+    "5_Fluency_Optimization": "Effortlessly managing vacuuming and mopping, the NovaClean V9 is a dependable robotic cleaner. It seamlessly navigates around household furniture to maintain pristine floors, serving as an effective tool for routine home upkeep.",
+    "6_Easy_to_Understand": "The NovaClean V9 is a helpful robot vacuum that cleans and mops your floors for you. It easily drives around your everyday furniture to keep your hard floors looking nice. It is a great, simple tool to keep your home clean.",
     "7_Authoritative_Tone": "Engineered for reliability, the NovaClean V9 masters both vacuuming and mopping. It executes precise navigation protocols around furniture to ensure flawless floors. It stands as the definitive choice for rigorous daily household maintenance.",
-    "8_Comparative_Synthesis": "Unlike average vacuums, the NovaClean V9 handles vacuuming and mopping simultaneously. It navigates around furniture more efficiently than standard models. It is a superior choice for homes compared to traditional, bulky upright vacuums."
+    "8_Comparative_Synthesis": "Compared to standard robot vacuums, the NovaClean V9 delivers stronger cleaning performance. It removes dirt and navigates more efficiently around furniture, It is a superior choice for homes compared to typical traditional models."
 }---
 
 ### The second - (Experience Good) - `NovaBean Heritage`
-
 conditions = {
-    "1_Baseline": "The NovaBean Heritage is a reliable all-purpose coffee that suits various brewing methods. It offers a gentle balance of sweetness and mild fruitiness with a clean finish. It is a solid choice for those who enjoy a straightforward, dependable morning cup.", 
+    "1_Baseline": "The NovaBean Heritage is a reliable all-purpose coffee that suits various brewing methods. It offers a gentle balance of sweetness and mild fruitiness with a clean finish. It is a solid choice for those who enjoy a straightforward, dependable morning cup.",
     "2_Keyword_Stuffing": "Buy the best whole bean coffee online. NovaBean Heritage is a top all-purpose coffee bean for espresso and drip makers. Enjoy the best tasting gourmet morning coffee blend. Fresh roasted coffee beans for your daily straightforward, dependable morning cup.",
     "3_Statistics_Addition": "The NovaBean Heritage handles various brewing methods with a verified 96% flavor consistency rate. It achieves a 40% reduction in harsh bitterness, delivering a statistically balanced sweetness and mild fruitiness. A quantified choice for a dependably clean morning cup.",
     "4_Citation_Injection": "The NovaBean Heritage suits various brewing methods. Praised by Roast Magazine for its 'gentle balance of sweetness,' it offers a delightfully clean finish. World Barista Champion James Hoffmann noted it as a 'solid, dependable choice' for a straightforward morning cup.",
